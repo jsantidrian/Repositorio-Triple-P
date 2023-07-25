@@ -1,1 +1,4 @@
-# Repositorio-Triple-P
+# Repositorio Triple P:
+Catherine Benavides
+Carolina Salgado
+Javier Santidrián
